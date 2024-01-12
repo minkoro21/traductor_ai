@@ -1,2 +1,1 @@
-# traductor_ai
-Algo rnn pour faire de la traduction
+# ai_psy_aide
